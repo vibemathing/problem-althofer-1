@@ -1084,12 +1084,12 @@
       "sha256": "3f899616e5b8b6462d6bf3fcbc3a56be6b44a3bdc1730cf35cfc60abb67207a2"
     },
     {
-      "bytes": 9524,
+      "bytes": 9634,
       "layer": "web_channel",
       "mode": "0644",
       "owner": "harness",
       "path": "WEB_CONTEXT_BUNDLE.md",
-      "sha256": "a38a49fec4ee883472b7b4355677d0f20bb90a2dfcd320420a551befdf9ee0a4"
+      "sha256": "71cb54faa80a0e5ebcc21432fb8127fe748c8c52fa4090c07a5d0c14f35e21dc"
     },
     {
       "bytes": 3270,
@@ -1468,12 +1468,12 @@
       "sha256": "08cfe86133ca8225b3909978735af132b1fc81c88612a0d22b51c0cc16b8e00c"
     },
     {
-      "bytes": 1976,
+      "bytes": 2050,
       "layer": "problem_instance",
       "mode": "0644",
       "owner": "problem",
       "path": "problem-library/records/canonical-problems.jsonl",
-      "sha256": "09bf28208773cab6328e157d73279ba3371a63b64260a257523fefec4e3d42fc"
+      "sha256": "602fba1e0a028a8c36392b9f0af43d6eda0ca64d49e8e6411cc473d49e6f7159"
     },
     {
       "bytes": 3891,
@@ -1918,9 +1918,9 @@
   ],
   "harness_version": "1.2.4",
   "problem": {
-    "admission": "preview_unadmitted",
-    "contract_sha256": "ccbc9db114f1ce0ea7404d063c9e4682fcf6c6c55834449f5ed91ae60ffba8d8",
-    "lifecycle": "draft",
+    "admission": "canonical_admitted",
+    "contract_sha256": "598c70d654b253d093a08973191bd8c57cef9912575a270e762df4bceb52f7a6",
+    "lifecycle": "active",
     "problem_id": "problem:althofer-1"
   },
   "profile": "web-research-full",
@@ -1941,5 +1941,5 @@
     "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
     "worktree_dirty": false
   },
-  "tree_sha256": "9f6ff0ef08b1f8be399e78ca62919ff2d74963b844ef8476ea056e7ad01b9875"
+  "tree_sha256": "34ff9141060477c63243b238423a670e5dd107f2a6a9defebfe54c100d9df5ac"
 }
